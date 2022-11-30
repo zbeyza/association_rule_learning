@@ -7,6 +7,7 @@ A rule-based machine learning technique used to find patterns in data. The Aprio
 In this project after data preprosessing, Invoice-Item matrix is obtained which is needed for Apriori Algortihm. Afterwards, items that occur frequently together were found using the apriori algorithm and a rule table was obtained using the association rules method. After the rule table is created, a sorting is made according to the need and then the recommendation process is performed.
 
 ### You can reach the detailed explanation of the projects from the links below:
+https://medium.com/@zbeyza/recommendation-systems-arl-association-rule-learning-bed1a07b5d9a
 
 # About Data Set:
 Online Retail II data set contains all the transactions occurring for a UK-based and registered, non-store online retail between 01/12/2009 and 09/12/2011.The company mainly sells unique all-occasion gift-ware. Many customers of the company are wholesalers.
