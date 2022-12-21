@@ -173,9 +173,9 @@ def check_id(dataframe, stock_code):
 check_id(df_fr, arl_recommender(rules, 22492, 2))
 
 
-##################
+#################
 # Script
-##################
+#################
 
 def outlier_thresholds(dataframe, variable):
     quartile1 = dataframe[variable].quantile(0.01)
